@@ -1,4 +1,4 @@
-package ru.mirea.yaninmu.lesson1;
+package ru.mirea.yaninmu.work5;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,6 +9,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.table_layout);
+        setContentView(R.layout.activity_second);
     }
 }
